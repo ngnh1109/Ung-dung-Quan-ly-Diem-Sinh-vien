@@ -1,1 +1,1 @@
-# -ng-d-ng-Qu-n-l-i-m-Sinh-vi-n
+Ứng dụng Quản lý Điểm Sinh viên
